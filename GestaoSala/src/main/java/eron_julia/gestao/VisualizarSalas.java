@@ -6,7 +6,7 @@ package eron_julia.gestao;
 
 /**
  *
- * @author Paulo e Julia
+ * @author Eronilson e Julia
  */
 public class VisualizarSalas extends javax.swing.JFrame {
 
